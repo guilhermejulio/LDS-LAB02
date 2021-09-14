@@ -38,7 +38,7 @@
 
 <br/>
 Neste laboratório, será projetado um sistema de alugel de veiculos.
-<br/>Mais informações podem ser visualizadas na <a href="https://pucminas.instructure.com/courses/70012/pages/sistema-de-matriculas">descrição do sistema</a>.
+<br/>Mais informações podem ser visualizadas na <a href="https://pucminas.instructure.com/courses/70012/pages/sistema-de-aluguel-de-carros">descrição do sistema</a>.
 
 <br/>
 <br/>
